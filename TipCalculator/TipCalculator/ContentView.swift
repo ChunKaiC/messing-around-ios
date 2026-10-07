@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  tip-calculator
+//  TipCalculator
 //
 //  Created by Chun-Kai Chen on 2026-10-07.
 //

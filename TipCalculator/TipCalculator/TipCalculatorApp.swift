@@ -1,6 +1,6 @@
 //
-//  tip_calculatorApp.swift
-//  tip-calculator
+//  TipCalculatorApp.swift
+//  TipCalculator
 //
 //  Created by Chun-Kai Chen on 2026-10-07.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct tip_calculatorApp: App {
+struct TipCalculatorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
